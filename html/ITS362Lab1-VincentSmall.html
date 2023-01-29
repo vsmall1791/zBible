@@ -1,0 +1,114 @@
+ <!DOCTYPE html>
+ <head>
+<link rel="stylesheet" href="styles.css">
+<script src="form.js"></script>
+<meta name="viewport" content="width=device-width">
+</head>
+<title> zBible </title>
+
+<html>
+<body>
+
+<img src="logo1.png" alt="Image of text saying zBible and a pine tree">
+<hr id = "line">
+
+<div class = "section">
+<p>Hello, my name is Vince, and welcome to zBible. zBible is a project I <s>made</s> am making for ITS362.</p>
+
+<p>I am excited to use this project as a chance to apply the skills I am learning in ITS362 to create something that is not only an amazing project ;) for the class but also something that those around me, and me of course, can personally benefit from. It is not just about completing an assignment, but about creating something that I can use and be proud of.</p>
+
+<p><strong>NOTE:</strong><i> Regardless of one's personal beliefs, the influence of this book on the world is undeniable. It has shaped societies and cultures throughout history. This website serves as a tribute to its enduring legacy.</i></p>
+</div>
+
+<hr id = "line">
+
+<div class = "section">
+<h3>Todo list</h3>
+<ul id="myUl">
+	<li>Parse bible from .xml into a searchable format</li>
+	<li>Add verse searching.</li>
+	<li>Add spanning search to verse searching. For example, John 3:16 - John 3:18</li>
+	<li>Input of entire books and display them with a scrollbar</li>
+	<p><strong>----Optional----</strong></p>
+	<li>Add book marking</li>
+	<li>Add input of bible club .docx. Parse and display the readings and text from the document on one page.</li>
+</ul>
+</div>
+
+<hr id = "line">
+
+<p>Below is a sample table, 3 input text boxes with a submit button and output box, and an image. I may or may not use this section later.</p>
+<div class = "container">
+
+	<div class ="sectionFORM">
+	  <form>
+	    <label for="book">Book:</label>
+	    <input type="text" id="book" name="book" placeholder="Enter a book name">
+	    <label for="chapter">Chapter:</label>
+	    <input type="text" id="chapter" name="chapter" placeholder="Enter a chapter #">
+
+	    <label for="verse">Verse:</label>
+	    <input type="text" id="verse" name="verse" placeholder="Enter a verse #"></input>
+	    <br>
+	    <input type="submit" value="Submit" onclick="showOutput(event)">
+	  </form>
+	<br>
+	<div id="outputDIV">
+	<p id = output></p>
+	</div>
+	</div>
+
+	<div class = "sectionTABLE">
+	<table id="TABLE">
+	  <tr>
+	    <th>BookID</th>
+	    <th>BookName</th>
+	    <th>Chapters</th>
+	  </tr>
+	  <tr>
+	    <td>1</td>
+	    <td>Genesis</td>
+	    <td>50</td>
+	  </tr>
+	  <tr>
+	    <td>2</td>
+	    <td>Exodus</td>
+	    <td>40</td>
+	  </tr>
+	  <tr>
+	    <td>3</td>
+	    <td>Leviticus</td>
+	    <td>27</td>
+	  </tr>
+	</table>
+	</div>
+
+	<div class="sunrise-container">
+	    <img src="pic1.jpg" alt="image" height=400 width=550 id="SUNRISE">
+
+	    <p class = "morning"><i>A beautiful morning</i></p>
+	    <p class="sunrise-text">
+	    	This is supposed to be a paragraph, but I don't know what else to write. Hmmm. Mayhaps the lyrics to 'break my stride'?
+	    	<br>
+		<br>
+		Last night, I had the strangest dream                <br>
+		I sailed away to China                               <br>
+		In a little rowboat to find ya                       <br>
+		And you said you had to get your laundry clean       <br>
+		Didn't want no one to hold you, what does that mean? <br>
+		And you said					     <br>
+		<br>
+		Ain't nothin' gonna break my stride  <br>
+		Nobody gonna slow me down            <br>
+		Oh no, I got to keep on moving       <br>
+		Ain't nothin' gonna break-a my stride<br>
+		I'm runnin' and I won't touch ground <br>
+		Oh no, I got to keep on moving	     <br>
+		</p>
+	</div>
+
+</div>
+
+
+</body>
+</html>

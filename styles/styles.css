@@ -1,0 +1,94 @@
+body
+{
+    background-color: #1b1b1b;
+
+    font-family: Arial;
+
+    color: orange;
+}
+
+.line
+{
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
+
+table, th, td
+{
+  border: 1px solid blue;
+}
+
+td
+{
+	text-align: center;
+}
+
+#myUl li
+{
+    color: #33bbff;
+}
+#outputDIV
+{
+	height:100px;
+	width:150px;
+   	border: 5px solid grey;
+   	padding: 5px;
+   	background-color: #fff;
+
+}
+#output
+{
+	color: #33bbff;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sectionFORM, .sectionTABLE, #SUNRISE
+{
+	flex: 1;
+}
+
+.sectionFORM label
+{
+	display: flex;
+	align-items: left;
+}
+
+.sectionFORM input
+{
+	display: flex;
+	align-items: right;
+}
+
+.sectionTABLE table
+{
+	width:100%;
+}
+
+
+.sunrise-text {
+	height:500px;
+	width:550px;
+
+	display:block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+p.morning {
+	display: flex;
+	align-items: center;
+}
+
+
+
+.sunrise-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
