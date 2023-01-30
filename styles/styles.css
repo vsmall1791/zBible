@@ -30,21 +30,31 @@ td
 }
 #outputDIV
 {
-	height:100px;
-	width:150px;
-   	border: 5px solid grey;
+   	border: 5px solid #33bbff;
    	padding: 5px;
-   	background-color: #fff;
-
+   	background-color: white;
+  	pointer-events: none;
 }
 #output
 {
-	color: #33bbff;
+	color: black;
+	display: inline;
+  	width: 70%;
+  	}
+
+#verse-number
+{
+	font-weight: bold;
+	color:black;
+	display: inline;
+	font-size: 18px;
 }
 
 
-.container {
+.container
+{
     display: flex;
+    height: 300px;
     justify-content: space-between;
 }
 
