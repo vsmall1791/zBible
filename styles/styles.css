@@ -1,104 +1,99 @@
-body
-{
-    background-color: #1b1b1b;
-
-    font-family: Arial;
-
-    color: orange;
+body {
+background-color: #1b1b1b;
+font-family: Arial;
+color: orange;
 }
 
-.line
-{
-    border-top: 1px solid #ccc;
-    padding-top: 10px;
+.line {
+border-top: 1px solid #ccc;
+padding-top: 10px;
 }
 
-
-table, th, td
-{
-  border: 1px solid blue;
-}
-
-td
-{
-	text-align: center;
-}
-
-#myUl li
-{
-    color: #33bbff;
-}
-#outputDIV
-{
-   	border: 5px solid #33bbff;
-   	padding: 5px;
-   	background-color: white;
-  	pointer-events: none;
-}
-#output
-{
-	color: black;
-	display: inline;
-  	width: 70%;
-  	}
-
-#verse-number
-{
-	font-weight: bold;
-	color:black;
-	display: inline;
-	font-size: 18px;
+#todo-ul li {
+color: #33bbff;
 }
 
 
-.container
-{
-    display: flex;
-    height: 300px;
-    justify-content: space-between;
+#output-div{
+border: 5px solid #33bbff;
+padding: 5px;
+background-color: white;
+pointer-events: none;
+width:100%;
 }
 
-.sectionFORM, .sectionTABLE, #SUNRISE
-{
-	flex: 1;
+#output {
+color: black;
+display: inline;
+width:100%;
 }
 
-.sectionFORM label
-{
-	display: flex;
-	align-items: left;
+#verse-number {
+font-weight: bold;
+color: black;
+display: inline;
+font-size: 18px;
 }
 
-.sectionFORM input
-{
-	display: flex;
-	align-items: right;
+.container {
+display: flex;
+height: 300px;
+width:100%;
+justify-content: space-between;
 }
 
-.sectionTABLE table
-{
-	width:100%;
+.search-section,
+.school-section,
+#sunrise {
+flex: 1;
+}
+
+.search-section label {
+display: flex;
+align-items: left;
+}
+
+.search-section input {
+display: flex;
+align-items: right;
 }
 
 
 .sunrise-text {
-	height:500px;
-	width:550px;
-
-	display:block;
-	margin-top: 10px;
-	margin-right: 10px;
+height: 500px;
+width: 550px;
+display: block;
+margin-top: 10px;
+margin-right: 10px;
 }
 
-p.morning {
-	display: flex;
-	align-items: center;
+#morning-text {
+display: flex;
+align-items: center;
 }
-
-
 
 .sunrise-container {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+display: flex;
+align-items: center;
+flex-direction: column;
+width: 45%;
+}
+
+
+.school-section{
+width: 25%;
+text-align: center;
+}
+
+.quiz-section,
+.lab-section{
+display:inline-block;
+padding: 1rem 1rem;
+}
+
+.quiz-section input,
+.lab-section input{
+height:40px;
+width:100px;
+font-size:24px
 }
