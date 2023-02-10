@@ -1,5 +1,5 @@
 {
-  "prayers":[
+  "prayers": [
     {
       "prayerID": 1,
       "prayerTitle": "Prayers to Your Patron Saint",
@@ -102,121 +102,116 @@
     },
     {
       "prayerID": 21,
-      "prayerTitle": "Prayers Before or After Any Task",
-      "prayerText": "Prayers Before Any Task"
+      "prayerTitle": "Prayers Before Any Task",
+      "prayerText": "Lord Jesus Christ, my God, You have said, “Apart from me You can do nothing.” In faith I embrace Your words, Lord, and I entreat Your goodness. Help me to carry out the work I am about to begin, and to bring it to completion. To You I give glory, Father, Son and Holy Spirit. Amen."
     },
     {
       "prayerID": 22,
-      "prayerTitle": "Lord Jesus Christ, my God, You have said, “Apart from me You can do nothing.” In faith I embrace Your words, Lord, and I entreat Your goodness. Help me to carry out the work I am about to begin, and to bring it to completion. To You I give glory, Father, Son and Holy Spirit. Amen.",
-      "prayerText": "Unknown prayer"
+      "prayerTitle": "Unknown prayer",
+      "prayerText": "Almighty God, our Help and Refuge, who knows that we can do nothing right without Your guidance and help; direct me by Your wisdom and power, that I may accomplish this task and, whatever I do according to Your divine will, so that it may be beneficial to me and others and to the glory of Your holy Name. Amen."
     },
     {
       "prayerID": 23,
-      "prayerTitle": "Almighty God, our Help and Refuge, who knows that we can do nothing right without Your guidance and help; direct me by Your wisdom and power, that I may accomplish this task and, whatever I do according to Your divine will, so that it may be beneficial to me and others and to the glory of Your holy Name. Amen.",
-      "prayerText": "Unknown prayer"
+      "prayerTitle": "Unknown prayer",
+      "prayerText": "My Lord and Savior, You became man and labored with Your hands until the time of Your ministry. Bless me as I begin this work. Help me to bring it to completion. Lord, enlighten my mind and strengthen my body, that I may accomplish my task according to Your will. Guide me to bring about works of goodness to Your service and glory. Amen."
     },
     {
       "prayerID": 24,
-      "prayerTitle": "My Lord and Savior, You became man and labored with Your hands until the time of Your ministry. Bless me as I begin this work. Help me to bring it to completion. Lord, enlighten my mind and strengthen my body, that I may accomplish my task according to Your will. Guide me to bring about works of goodness to Your service and glory. Amen.",
-      "prayerText": "Prayer After Any Task"
+      "prayerTitle": "Prayer After Any Task",
+      "prayerText": "Thank You, Lord, for Your strength and guidance in my work. You are the fulfillment of all good things. Fill also my soul with joy and gladness, that I may praise You always. Amen."
     },
     {
       "prayerID": 25,
-      "prayerTitle": "Thank You, Lord, for Your strength and guidance in my work. You are the fulfillment of all good things. Fill also my soul with joy and gladness, that I may praise You always. Amen.",
-      "prayerText": "Prayer Toward the Unknown"
+      "prayerTitle": "Prayer Toward the Unknown",
+      "prayerText": "O Lord, You who steadied the hand of Peter as he began to sink on the stormy sea, if you are with me, no one is against me. Grant to me the shield of faith and the mighty armor of the Holy Spirit to protect me and guide me to do Your will. The future I put into Your hands, O Lord, and I follow You to a life in Christ. Amen"
     },
     {
       "prayerID": 26,
-      "prayerTitle": "O Lord, You who steadied the hand of Peter as he began to sink on the stormy sea, if you are with me, no one is against me. Grant to me the shield of faith and the mighty armor of the Holy Spirit to protect me and guide me to do Your will. The future I put into Your hands, O Lord, and I follow You to a life in Christ. Amen",
-      "prayerText": "Prayer Before Travel"
+      "prayerTitle": "Prayer Before Travel",
+      "prayerText": "Lord Jesus Christ my God, be my Companion, guide and protector during my journey. Keep me from all danger, misfortune and temptation. By Your divine power grant me a peaceful and successful journey and safe arrival. In You I place my hope and trust and You I praise, honor and glorify, together with Your Father and Holy Spirit now and forever and ever. Amen."
     },
     {
       "prayerID": 27,
-      "prayerTitle": "Lord Jesus Christ my God, be my Companion, guide and protector during my journey. Keep me from all danger, misfortune and temptation. By Your divine power grant me a peaceful and successful journey and safe arrival. In You I place my hope and trust and You I praise, honor and glorify, together with Your Father and Holy Spirit now and forever and ever. Amen.",
-      "prayerText": "Prayer before travel II"
+      "prayerTitle": "Prayer before travel II",
+      "prayerText": "Lord Jesus, You traveled with the two disciples after the resurrection and set their hearts on fire with Your grace. Travel also with me and gladden my heart with Your presence. I know, Lord, that I am a pilgrim on this earth, seeking the citizenship which is in heaven. During my journey surround me with Your holy angels and keep me safe from seen and unseen dangers. Grant that I may carry out my plans and fulfill my expectations according to Your will. Help me to see the beauty of creation and to comprehend the wonder of Your truth in all things. For You are the way, the truth and the life, and to You I give thanks, praise and glory forever. Amen"
     },
     {
       "prayerID": 28,
-      "prayerTitle": "Lord Jesus, You traveled with the two disciples after the resurrection and set their hearts on fire with Your grace. Travel also with me and gladden my heart with Your presence. I know, Lord, that I am a pilgrim on this earth, seeking the citizenship which is in heaven. During my journey surround me with Your holy angels and keep me safe from seen and unseen dangers. Grant that I may carry out my plans and fulfill my expectations according to Your will. Help me to see the beauty of creation and to comprehend the wonder of Your truth in all things. For You are the way, the truth and the life, and to You I give thanks, praise and glory forever. Amen",
-      "prayerText": "Prayers for Repentance"
+      "prayerTitle": "Prayers for Repentance",
+      "prayerText": "God, my good and loving Lord, I acknowledge all the sins which I have committed every day in my life, whether in thought, word or deed. I ask for forgiveness from the depths of my heart for offending You and others and repent of my old ways. Help me by Your grace to change, to sin no more and to walk in the way of righteousness and to praise and glorify Your Name, Father, Son and Holy Spirit. Amen."
     },
     {
       "prayerID": 29,
-      "prayerTitle": "God, my good and loving Lord, I acknowledge all the sins which I have committed every day in my life, whether in thought, word or deed. I ask for forgiveness from the depths of my heart for offending You and others and repent of my old ways. Help me by Your grace to change, to sin no more and to walk in the way of righteousness and to praise and glorify Your Name, Father, Son and Holy Spirit. Amen.",
-      "prayerText": "Unknown prayer"
+      "prayerTitle": "Unknown prayer",
+      "prayerText": "O Lord my God, I confess that I have sinned against You in thought, word and deed. I have also omitted to do what Your holy law requires of me. But now with repentance and contrition I turn again to Your love and mercy. I entreat You to forgive me all my transgressions and to cleanse me from all my sins. Lord, fill my heart with the light of Your truth. Strengthen my will by Your grace. Teach me both to desire and to do only what pleases You. Amen."
     },
     {
       "prayerID": 30,
-      "prayerTitle": "O Lord my God, I confess that I have sinned against You in thought, word and deed. I have also omitted to do what Your holy law requires of me. But now with repentance and contrition I turn again to Your love and mercy. I entreat You to forgive me all my transgressions and to cleanse me from all my sins. Lord, fill my heart with the light of Your truth. Strengthen my will by Your grace. Teach me both to desire and to do only what pleases You. Amen.",
-      "prayerText": "Prayer for Love"
+      "prayerTitle": "Prayer for Love",
+      "prayerText": "Christ my God, set my heart on fire with love in You, that in its flame I may love You with all my heart, with all my mind, and with all my soul and with all my strength, and my neighbor as myself, so that by keeping Your commandments I may glorify You the Giver of every good and perfect gift. Amen."
     },
     {
       "prayerID": 31,
-      "prayerTitle": "Christ my God, set my heart on fire with love in You, that in its flame I may love You with all my heart, with all my mind, and with all my soul and with all my strength, and my neighbor as myself, so that by keeping Your commandments I may glorify You the Giver of every good and perfect gift. Amen.",
-      "prayerText": "Lenten prayer"
+      "prayerTitle": "Lenten prayer",
+      "prayerText": "Almighty Master, who created all things in wisdom, by Your providence and great goodness, you have led us to this lenten season for purification of our souls and bodies, and for control of our passions in the hope of the resurrection; You, who after forty days gave Moses the tablets of the law inscribed by Your divine hand, grant to us the strength to fight the good fight, to fast, to keep the faith, to crush under foot all evil demons, and to become victorious over sin and to celebrate Your holy Resurrection. For blessed and glorified is Your most honored and majestic name of the Father and the Son and the Holy Spirit, both now and forever and to the ages of ages. Amen."
     },
     {
       "prayerID": 32,
-      "prayerTitle": "Almighty Master, who created all things in wisdom, by Your providence and great goodness, you have led us to this lenten season for purification of our souls and bodies, and for control of our passions in the hope of the resurrection; You, who after forty days gave Moses the tablets of the law inscribed by Your divine hand, grant to us the strength to fight the good fight, to fast, to keep the faith, to crush under foot all evil demons, and to become victorious over sin and to celebrate Your holy Resurrection. For blessed and glorified is Your most honored and majestic name of the Father and the Son and the Holy Spirit, both now and forever and to the ages of ages. Amen.",
-      "prayerText": "Lentan prayer II"
+      "prayerTitle": "Lentan prayer II",
+      "prayerText": "Lord and Master of my life, deliver me from the spirit of laziness, meddling, ambition and gossip. Give me, Your servant, the spirit of prudence, humility, patience and love. Lord and King, grant that I may see my sins and faults and not judge my brother, for You are blessed forever and ever. Amen."
     },
     {
       "prayerID": 33,
-      "prayerTitle": "Lord and Master of my life, deliver me from the spirit of laziness, meddling, ambition and gossip. Give me, Your servant, the spirit of prudence, humility, patience and love. Lord and King, grant that I may see my sins and faults and not judge my brother, for You are blessed forever and ever. Amen.",
-      "prayerText": "Prayer for Acceptance of God’s Will"
+      "prayerTitle": "Prayer for Acceptance of God’s Will",
+      "prayerText": "Lord, I do not know what to ask of You. You know better than me what my needs are. You love more than I know how to love. Help me to see clearly my real needs which I do not see. I open my heart to You. Examine and reveal to me my faults and sins. I put all trust in You. I have no other desire than to fulfill Your will. Teach me how to pray. Pray in me. Amen."
     },
     {
       "prayerID": 34,
-      "prayerTitle": "Lord, I do not know what to ask of You. You know better than me what my needs are. You love more than I know how to love. Help me to see clearly my real needs which I do not see. I open my heart to You. Examine and reveal to me my faults and sins. I put all trust in You. I have no other desire than to fulfill Your will. Teach me how to pray. Pray in me. Amen.",
-      "prayerText": "Prayers for Study"
-    },
-    {
-      "prayerID": 35,
       "prayerTitle": "Prayer of a Student",
       "prayerText": "Christ my Lord, the Giver of light and wisdom, who opened the eyes of the blind man and transformed the fishermen into wise heralds and teachers of the gospel through the coming of the Holy Spirit, shine also in my mind the light of the grace of the Holy Spirit. Grant me discernment, understanding and wisdom in learning. Enable me to complete my assignments and to abound in every good work, for to You I give honor and glory. Amen."
     },
     {
-      "prayerID": 36,
+      "prayerID": 35,
       "prayerTitle": "Prayers Before Study",
       "prayerText": "Most blessed Lord, send the grace of Your Holy Spirit on me to strengthen me that I may learn well the subject I am about to study and by it become a better person for Your glory, the comfort of my family and the benefit of Your Church and our Nation. Amen"
     },
     {
-      "prayerID": 37,
+      "prayerID": 36,
       "prayerTitle": "Unknown prayer",
       "prayerText": "Christ, the true light, who enlightens and sanctifies every person coming into the world, let the light of Your countenance shine upon me (us) that I (we) may see Your unapproachable light; and guide my (our) steps in the way of Your commandments, through the intercessions of Your all-holy Mother and of all the Saints. Amen."
     },
     {
-      "prayerID": 38,
+      "prayerID": 37,
       "prayerTitle": "Prayer After Study",
       "prayerText": "I thank You, Lord our God, that again on this occasion You have opened my eyes to the light of Your wisdom. You have gladdened my heart with the knowledge of truth. I entreat You, Lord, help me always to do Your will. Bless my soul and body, my words and deeds. Enable me to grow in grace, virtue and good habits, that Your name may be glorified, Father, Son and Holy Spirit, now and forever. Amen."
     },
     {
-      "prayerID": 39,
+      "prayerID": 38,
       "prayerTitle": "Prayer Before Studying the Bible",
       "prayerText": "Master who loves us, shine Your eternal light in our hearts that we may better know you. Help us to fully understand Your gospel message. Instill in us respect for Your holy commandments, that by overcoming our worldly desires we might live a spiritual life of thoughts and deeds which pleases You. We ask this of You, O Christ our god, for You are the light of our souls and bodies and You we glorify with Your eternal Father and Your all-holy good and life-giving Spirit now and forever. Amen."
     },
     {
-      "prayerID": 40,
+      "prayerID": 39,
       "prayerTitle": "Unknown prayer",
       "prayerText": "Shine within my heart, loving Master, the pure light of Your divine knowledge, and open the eyes of my mind that I may understand Your teachings. Instill in me also reverence for Your blessed commandments, so that having conquered sinful desires I may pursue a spiritual way of life, thinking and doing all those things that are pleasing to You. For You, Christ my God, are my light, and to You I give glory together with Your Father and Your Holy Spirit, now and forever. Amen."
     },
     {
-      "prayerID": 41,
+      "prayerID": 40,
       "prayerTitle": "General Prayers for the Dead",
       "prayerText": "Christ our eternal King and God, You have destroyed death and the devil by Your Cross and have restored man to life by Your Resurrection; give rest, Lord, to the soul of Your servant (name) who has fallen asleep, in Your Kingdom, where there is no pain, sorrow or suffering. In Your goodness and love for all men, pardon all the sins he (she) has committed in thought word or deed, for there is no man or woman who lives and sins not, You only are without sin."
     },
     {
-      "prayerID": 42,
+      "prayerID": 41,
       "prayerTitle": "Prayer for a Dead Child",
       "prayerText": "O Lord who watches over children in the present life and in the world to come because of their simplicity and innocence of mind, abundantly satisfying them with a place in Abraham’s bosom, bringing them to live in radiantly shining places where the spirits of the righteous dwell: receive in peace the soul of Your little servant (name), for You Yourself have said, “Let the little children come to Me, for such is the Kingdom of Heaven.” Amen."
     },
     {
-      "prayerID": 43,
+      "prayerID": 42,
       "prayerTitle": "Prayer After a Miscarriage",
       "prayerText": "O Sovereign Master, Lord our God, Who was born of the all-pure Theotokos and Ever-Virgin Mary, and as an infant was laid in a manger: do You Yourself, according to Your great mercy, have regard for this Your servant (Name) who has miscarried that which was conceived in her. Heal her suffering, granting to her, O Loving Lord, health and strength of body and soul. Guard her with a shining Angel from every assault of sickness and weakness and all inward torment. You who accept the innocence of infancy in Your Kingdom, comfort the mind of Your servant and bring her peace. Amen."
     },
     {
-      "prayerID": 44,
+      "prayerID": 43,
       "prayerTitle": "Prayer of the Hours",
       "prayerText": "Thou Who at all times and at every hour, in heaven and on earth, art worshipped and glorified, O Christ God, Who art long-suffering, plenteous in mercy, most compassionate, Who lovest the righteous and hast mercy on sinners; Who callest all men to salvation through the promise of good things to come: Receive, O Lord, our prayers at this hour, and guide our life toward Thy commandments. Sanctify our souls, make chaste our bodies, correct our thoughts, purify our intentions, and deliver us from every sorrow, evil, and pain.  Compass us about with Thy holy angels, that, guarded and guided by their array, we may attain to the unity of the faith and to the knowledge of Thine unapproachable glory: For blessed art Thou unto the ages of ages. Amen."
     }
